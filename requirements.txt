@@ -1,0 +1,9 @@
+torch>=2.3
+torchvision>=0.18
+numpy
+Pillow
+matplotlib>=3.5
+scikit-learn
+tqdm
+streamlit>=1.30
+pytest
